@@ -1,0 +1,10 @@
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.csprojAssemblyReference.cache
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.Form1.resources
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.Properties.Resources.resources
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.csproj.GenerateResource.cache
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.csproj.CoreCompileInputs.cache
+C:\Users\Tamara Volic\Desktop\A04\bin\Debug\A04.exe.config
+C:\Users\Tamara Volic\Desktop\A04\bin\Debug\A04.exe
+C:\Users\Tamara Volic\Desktop\A04\bin\Debug\A04.pdb
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.exe
+C:\Users\Tamara Volic\Desktop\A04\obj\Debug\A04.pdb

@@ -1,0 +1,20 @@
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.csprojAssemblyReference.cache
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.Form1.resources
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.Properties.Resources.resources
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.csproj.GenerateResource.cache
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.csproj.CoreCompileInputs.cache
+C:\Users\Tamara Volic\Desktop\A03\bin\Debug\A03.exe.config
+C:\Users\Tamara Volic\Desktop\A03\bin\Debug\A03.exe
+C:\Users\Tamara Volic\Desktop\A03\bin\Debug\A03.pdb
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.exe
+C:\Users\Tamara Volic\Desktop\A03\obj\Debug\A03.pdb
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\bin\Debug\A03.exe.config
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\bin\Debug\A03.exe
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\bin\Debug\A03.pdb
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.csprojAssemblyReference.cache
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.Form1.resources
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.Properties.Resources.resources
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.csproj.GenerateResource.cache
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.csproj.CoreCompileInputs.cache
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.exe
+C:\Users\Tamara Volic\Desktop\Aufgabe 3\obj\Debug\A03.pdb

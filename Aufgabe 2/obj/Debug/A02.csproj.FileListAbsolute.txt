@@ -1,0 +1,10 @@
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.csprojAssemblyReference.cache
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.Form1.resources
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.Properties.Resources.resources
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.csproj.GenerateResource.cache
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.csproj.CoreCompileInputs.cache
+C:\Users\Tamara Volic\Desktop\A02\bin\Debug\A02.exe.config
+C:\Users\Tamara Volic\Desktop\A02\bin\Debug\A02.exe
+C:\Users\Tamara Volic\Desktop\A02\bin\Debug\A02.pdb
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.exe
+C:\Users\Tamara Volic\Desktop\A02\obj\Debug\A02.pdb
